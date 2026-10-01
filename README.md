@@ -1,0 +1,1 @@
+MATLAB/Simulink code developed for my master’s dissertation on vibration attenuation of a flexible two-link manipulator using PPO control and predictive safety filtering. To run the trained PPO controller without the safety filter, run test_ppo_simulink.m; to run it with the safety filter, run test_ppo_ps2f_simulink.m.
